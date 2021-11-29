@@ -1,4 +1,6 @@
 # Dia landing page
+
+Features
 - Fully responsive in all screens types;
 - Implemented mobile menu via pure CSS;
 - Implemented simple slider in JS;
